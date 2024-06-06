@@ -1,6 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 #include "Game.h"
+#include <conio.h>
 using namespace std;
 int main()
 {
